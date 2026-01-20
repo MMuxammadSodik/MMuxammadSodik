@@ -1,5 +1,5 @@
 # MuxammadSodik Marufov
-**Junior Penetration Tester | Web & Network Security | Python & Java Tooling**
+**Junior Penetration Tester | Web & Network Security **
 
 ---
 
