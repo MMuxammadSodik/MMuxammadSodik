@@ -1,5 +1,5 @@
 # MuxammadSodik Marufov
-**Junior Penetration Tester | Web & Network Security **
+**Junior Penetration Tester | Web & Network Security**
 
 ---
 
