@@ -1,77 +1,89 @@
-# MuxammadSodik Marufov
-**Junior Penetration Tester | Web & Network Security**
+👋 MuxammadSodik Marufov
 
----
+Offensive Security Engineer | Penetration Testing & Red Team Operations
 
+Offensive security professional with hands-on experience across web applications, networks, and enterprise environments.
+Background in conducting structured penetration tests, developing custom offensive tooling, and documenting findings in professional security reports aligned with industry standards.
 
-Offensive security practitioner focused on web application, network, and infrastructure penetration testing.  
-Experienced in vulnerability research, custom tooling, and exploitation methodology. Actively building reproducible labs, payload research, and automation aligned with real-world security assessments.
+Currently focused on advancing advanced offensive capabilities while maintaining a strong foundation in real-world attack methodology and risk-driven security assessment.
 
----
+🔐 Technical Competencies
+Penetration Testing & Red Teaming
 
+End-to-end penetration testing: reconnaissance, exploitation, privilege escalation, and post-exploitation
 
-**Web Application Security**
-- SQL Injection, XSS, SSTI, IDOR, authentication & authorization flaws
-- File upload vulnerabilities, business logic issues
-- Manual testing with Burp Suite and custom scripts
+Web application, network, and infrastructure security assessments
 
-**Network & Infrastructure**
-- Network enumeration and service discovery
-- SMB, LDAP, Kerberos, NTLM fundamentals
-- Initial access and privilege escalation techniques
+Active Directory attack chains and lateral movement fundamentals
 
-**Exploitation & Research**
-- Payload development and bypass techniques
-- Deserialization and injection attack research
-- Understanding exploit limitations and detection
+Risk-based exploitation with controlled impact
 
----
+Web Application Security
 
-## Tooling & Scripting
+SQL Injection, XSS, SSTI, IDOR
 
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Feroxbuster
-- **Scripting:** Python, Bash, Java
+Authentication & authorization weaknesses
 
----
+File upload and business logic vulnerabilities
 
-## Portfolio
+Manual testing with Burp Suite and supporting automation
 
-- **Pentest Labs**  
-  Structured Hack The Box / TryHackMe write-ups with clear methodology, findings, and remediation guidance.
+Network & Enterprise Security
 
-- **Custom Offensive Tools**  
-  Purpose-built scripts and tools designed to solve specific penetration testing problems.
+Network mapping and service discovery
 
-- **Payload Research**  
-  Notes and proof-of-concepts for bypass techniques and exploit behavior analysis.
+SMB, LDAP, Kerberos, NTLM attack surfaces
 
-- **Reporting Templates**  
-  Professional pentest report formats including executive summaries and technical findings.
+Linux & Windows privilege escalation techniques
 
----
+Secure validation of vulnerabilities
 
-## Methodology
+🛠 Tools & Engineering
 
-I approach penetration testing as a repeatable process:
-1. Scope understanding and threat modeling  
-2. Enumeration and attack surface mapping  
-3. Exploitation with controlled impact  
-4. Evidence collection and documentation  
-5. Clear remediation and risk communication  
+Security Tooling: Nmap, Burp Suite, Metasploit, Feroxbuster
 
----
+Automation & Scripting: Python, Bash
 
-## Learning & Development
+Custom Tool Development: task-specific scripts supporting assessment workflows
 
-- Active on Hack The Box and TryHackMe
-- Continuous self-study of modern attack techniques
-- Focused on building practical, explainable security skills
+📁 Portfolio Highlights
+🔬 Offensive Research & Labs
 
----
+Reproducible penetration testing labs reflecting real-world environments
 
-## Contact
+Clear methodology with exploitation evidence and remediation guidance
 
-- **LinkedIn:** https://www.linkedin.com/in/muxammadsodik-marufov-51a30b293/
-- **Email:** muhammadsodiqmarupovdev@gmail.com
+⚙️ Custom Tooling
 
----
+Lightweight offensive tools designed to improve efficiency and repeatability during assessments
+
+📝 Professional Reporting
+
+Client-ready penetration testing reports
+
+Executive summaries for non-technical stakeholders
+
+Technical findings with clear remediation steps
+
+🔁 Methodology & Mindset
+
+Structured, repeatable penetration testing approach
+
+Emphasis on impact, risk, and remediation
+
+Strong documentation and communication discipline
+
+Continuous improvement aligned with modern attack techniques
+
+🎓 Certifications & Development
+
+eJPT – Junior Penetration Tester (INE)
+
+Actively pursuing advanced offensive security certifications
+(penetration testing, red team operations, and exploit research)
+
+📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/muxammadsodik-marufov-51a30b293/
+
+Email: muhammadsodiqmarupovdev@gmail.com
