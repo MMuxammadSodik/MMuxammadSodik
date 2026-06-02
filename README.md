@@ -79,4 +79,4 @@ Currently focused on advancing offensive capabilities while maintaining a strong
 
 ## **Contact**
 - **LinkedIn:** https://www.linkedin.com/in/muxammadsodik-marufov-51a30b293/
-- **Email:** muhammadsodiqmarupovdev@gmail.com
+- **Email:** sodik.marufov@gmail.com
